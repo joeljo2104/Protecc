@@ -1,0 +1,14 @@
+0 Mule
+1 Polar bear
+2 Bull
+3 Bear
+4 Camel
+5 Cheetah
+6 Deer
+7 Elephant
+8 Hippopotamus
+9 Jaguar
+10 Leopard
+11 Lion
+12 Rhinoceros
+13 Tiger
