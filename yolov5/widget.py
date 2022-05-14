@@ -265,7 +265,7 @@ def alert(animals):
 
 
     account_sid = 'ACc72eac151dc8d261d3d42ca8bf1dc443'
-    auth_token = 'e06be7394a5583a6c7e59221d15ffa2a'
+    auth_token = 'e250bcd439bec4c5bd11e3d1cc39e0ea'
     client = Client(account_sid, auth_token)
     print("Calling Residents")
     msg = "Animal Alert" + " ".join(animals) + "is on the loose"
